@@ -1,2 +1,2 @@
 # hello-world
-Inaugural event.
+Inaugural event. I'm learning a lot of new things today.
